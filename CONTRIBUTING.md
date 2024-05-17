@@ -1,6 +1,3 @@
-Certainly! Here's an updated `CONTRIBUTING.md` file with the necessary formatting and additional details:
-
-```markdown
 # Contributing to ICOME
 
 Thank you for considering contributing to the ICOME repository! We welcome contributions from the community to help improve and grow this project.
