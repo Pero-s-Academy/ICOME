@@ -1,7 +1,3 @@
-Sure, here is an enhanced version with additional badges, icons, and visual aesthetics:
-
----
-
 # 🚀 ICOME Repository
 
 [![GitHub issues](https://img.shields.io/github/issues/Pero-s-Academy/ICOME)](https://github.com/Pero-s-Academy/ICOME/issues)
