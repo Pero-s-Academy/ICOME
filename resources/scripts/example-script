@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Example script
+echo "This is an example script."
