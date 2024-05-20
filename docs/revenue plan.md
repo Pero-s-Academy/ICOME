@@ -1,6 +1,4 @@
-To help Malcolm and Malusi formalize a plan to establish and offer services to SMEs, we will break down the process into several key steps. This plan will include market research, service establishment, marketing strategies, and ongoing support. Here's a comprehensive plan:
-
-### 1. Market Research
+## 1. Market Research
 
 **Objective:** Identify the target market and low-hanging fruit opportunities.
 
